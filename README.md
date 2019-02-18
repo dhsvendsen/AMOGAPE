@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/130990393.svg)](https://zenodo.org/badge/latestdoi/130990393)
+
 # AMOGAPE
 
 ##### Automatic Multi-Output Gaussian Process Emulator
